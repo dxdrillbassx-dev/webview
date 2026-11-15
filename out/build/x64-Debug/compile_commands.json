@@ -1,0 +1,104 @@
+[
+{
+  "directory": "C:/Users/Administrator/Music/ItchioLite/client/webview/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\test_driver\\include /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd /W4 /Fotest_driver\\CMakeFiles\\webview_test_driver.dir\\src\\test_driver.cc.obj /Fdtest_driver\\CMakeFiles\\webview_test_driver.dir\\webview_test_driver.pdb /FS -c C:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\test_driver\\src\\test_driver.cc",
+  "file": "C:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\test_driver\\src\\test_driver.cc",
+  "output": "test_driver\\CMakeFiles\\webview_test_driver.dir\\src\\test_driver.cc.obj"
+},
+{
+  "directory": "C:/Users/Administrator/Music/ItchioLite/client/webview/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DWEBVIEW_BUILD_SHARED -Dwebview_core_shared_EXPORTS -IC:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\core\\include -IC:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\compatibility\\mingw\\include -external:IC:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\out\\build\\x64-Debug\\_deps\\microsoft_web_webview2-src\\build\\native\\include -external:W0 /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd /W4 /Focore\\CMakeFiles\\webview_core_shared.dir\\src\\webview.cc.obj /Fdcore\\CMakeFiles\\webview_core_shared.dir\\ /FS -c C:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\core\\src\\webview.cc",
+  "file": "C:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\core\\src\\webview.cc",
+  "output": "core\\CMakeFiles\\webview_core_shared.dir\\src\\webview.cc.obj"
+},
+{
+  "directory": "C:/Users/Administrator/Music/ItchioLite/client/webview/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DWEBVIEW_STATIC -IC:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\core\\include -IC:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\compatibility\\mingw\\include -external:IC:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\out\\build\\x64-Debug\\_deps\\microsoft_web_webview2-src\\build\\native\\include -external:W0 /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd /W4 /Focore\\CMakeFiles\\webview_core_static.dir\\src\\webview.cc.obj /Fdcore\\CMakeFiles\\webview_core_static.dir\\webview_core_static.pdb /FS -c C:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\core\\src\\webview.cc",
+  "file": "C:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\core\\src\\webview.cc",
+  "output": "core\\CMakeFiles\\webview_core_static.dir\\src\\webview.cc.obj"
+},
+{
+  "directory": "C:/Users/Administrator/Music/ItchioLite/client/webview/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\core\\include -IC:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\compatibility\\mingw\\include -IC:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\test_driver\\include -external:IC:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\out\\build\\x64-Debug\\_deps\\microsoft_web_webview2-src\\build\\native\\include -external:W0 /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd /W4 /utf-8 /Focore\\tests\\CMakeFiles\\webview_core_functional_tests.dir\\src\\functional_tests.cc.obj /Fdcore\\tests\\CMakeFiles\\webview_core_functional_tests.dir\\ /FS -c C:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\core\\tests\\src\\functional_tests.cc",
+  "file": "C:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\core\\tests\\src\\functional_tests.cc",
+  "output": "core\\tests\\CMakeFiles\\webview_core_functional_tests.dir\\src\\functional_tests.cc.obj"
+},
+{
+  "directory": "C:/Users/Administrator/Music/ItchioLite/client/webview/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\core\\include -IC:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\compatibility\\mingw\\include -IC:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\test_driver\\include -external:IC:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\out\\build\\x64-Debug\\_deps\\microsoft_web_webview2-src\\build\\native\\include -external:W0 /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd /W4 /utf-8 /Focore\\tests\\CMakeFiles\\webview_core_unit_tests.dir\\src\\unit_tests.cc.obj /Fdcore\\tests\\CMakeFiles\\webview_core_unit_tests.dir\\ /FS -c C:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\core\\tests\\src\\unit_tests.cc",
+  "file": "C:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\core\\tests\\src\\unit_tests.cc",
+  "output": "core\\tests\\CMakeFiles\\webview_core_unit_tests.dir\\src\\unit_tests.cc.obj"
+},
+{
+  "directory": "C:/Users/Administrator/Music/ItchioLite/client/webview/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo -DWEBVIEW_STATIC -IC:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\core\\include -IC:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\compatibility\\mingw\\include -external:IC:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\out\\build\\x64-Debug\\_deps\\microsoft_web_webview2-src\\build\\native\\include -external:W0 /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W4 /Foexamples\\CMakeFiles\\webview_example_basic_c.dir\\basic.c.obj /Fdexamples\\CMakeFiles\\webview_example_basic_c.dir\\ /FS -c C:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\examples\\basic.c",
+  "file": "C:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\examples\\basic.c",
+  "output": "examples\\CMakeFiles\\webview_example_basic_c.dir\\basic.c.obj"
+},
+{
+  "directory": "C:/Users/Administrator/Music/ItchioLite/client/webview/out/build/x64-Debug",
+  "command": "C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe -DWEBVIEW_STATIC -I C:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\core\\include -I C:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\compatibility\\mingw\\include -I C:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\out\\build\\x64-Debug\\_deps\\microsoft_web_webview2-src\\build\\native\\include -DWIN32 -D_DEBUG /fo examples\\CMakeFiles\\webview_example_basic_c.dir\\resources\\windows\\resources.rc.res C:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\examples\\resources\\windows\\resources.rc",
+  "file": "C:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\examples\\resources\\windows\\resources.rc",
+  "output": "examples\\CMakeFiles\\webview_example_basic_c.dir\\resources\\windows\\resources.rc.res"
+},
+{
+  "directory": "C:/Users/Administrator/Music/ItchioLite/client/webview/out/build/x64-Debug",
+  "command": "C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe -DWEBVIEW_STATIC -I C:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\core\\include -I C:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\compatibility\\mingw\\include -I C:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\out\\build\\x64-Debug\\_deps\\microsoft_web_webview2-src\\build\\native\\include -DWIN32 -D_DEBUG /fo examples\\CMakeFiles\\webview_example_basic_c.dir\\resources\\windows\\version.rc.res C:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\out\\build\\x64-Debug\\examples\\resources\\windows\\version.rc",
+  "file": "C:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\out\\build\\x64-Debug\\examples\\resources\\windows\\version.rc",
+  "output": "examples\\CMakeFiles\\webview_example_basic_c.dir\\resources\\windows\\version.rc.res"
+},
+{
+  "directory": "C:/Users/Administrator/Music/ItchioLite/client/webview/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\core\\include -IC:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\compatibility\\mingw\\include -external:IC:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\out\\build\\x64-Debug\\_deps\\microsoft_web_webview2-src\\build\\native\\include -external:W0 /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd /W4 /Foexamples\\CMakeFiles\\webview_example_basic_cc.dir\\basic.cc.obj /Fdexamples\\CMakeFiles\\webview_example_basic_cc.dir\\ /FS -c C:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\examples\\basic.cc",
+  "file": "C:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\examples\\basic.cc",
+  "output": "examples\\CMakeFiles\\webview_example_basic_cc.dir\\basic.cc.obj"
+},
+{
+  "directory": "C:/Users/Administrator/Music/ItchioLite/client/webview/out/build/x64-Debug",
+  "command": "C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe -I C:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\core\\include -I C:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\compatibility\\mingw\\include -I C:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\out\\build\\x64-Debug\\_deps\\microsoft_web_webview2-src\\build\\native\\include -DWIN32 -D_DEBUG /fo examples\\CMakeFiles\\webview_example_basic_cc.dir\\resources\\windows\\resources.rc.res C:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\examples\\resources\\windows\\resources.rc",
+  "file": "C:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\examples\\resources\\windows\\resources.rc",
+  "output": "examples\\CMakeFiles\\webview_example_basic_cc.dir\\resources\\windows\\resources.rc.res"
+},
+{
+  "directory": "C:/Users/Administrator/Music/ItchioLite/client/webview/out/build/x64-Debug",
+  "command": "C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe -I C:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\core\\include -I C:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\compatibility\\mingw\\include -I C:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\out\\build\\x64-Debug\\_deps\\microsoft_web_webview2-src\\build\\native\\include -DWIN32 -D_DEBUG /fo examples\\CMakeFiles\\webview_example_basic_cc.dir\\resources\\windows\\version.rc.res C:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\out\\build\\x64-Debug\\examples\\resources\\windows\\version.rc",
+  "file": "C:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\out\\build\\x64-Debug\\examples\\resources\\windows\\version.rc",
+  "output": "examples\\CMakeFiles\\webview_example_basic_cc.dir\\resources\\windows\\version.rc.res"
+},
+{
+  "directory": "C:/Users/Administrator/Music/ItchioLite/client/webview/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo -DWEBVIEW_STATIC -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\core\\include -IC:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\compatibility\\mingw\\include -external:IC:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\out\\build\\x64-Debug\\_deps\\microsoft_web_webview2-src\\build\\native\\include -external:W0 /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W4 /Foexamples\\CMakeFiles\\webview_example_bind_c.dir\\bind.c.obj /Fdexamples\\CMakeFiles\\webview_example_bind_c.dir\\ /FS -c C:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\examples\\bind.c",
+  "file": "C:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\examples\\bind.c",
+  "output": "examples\\CMakeFiles\\webview_example_bind_c.dir\\bind.c.obj"
+},
+{
+  "directory": "C:/Users/Administrator/Music/ItchioLite/client/webview/out/build/x64-Debug",
+  "command": "C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe -DWEBVIEW_STATIC -D_CRT_SECURE_NO_WARNINGS -I C:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\core\\include -I C:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\compatibility\\mingw\\include -I C:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\out\\build\\x64-Debug\\_deps\\microsoft_web_webview2-src\\build\\native\\include -DWIN32 -D_DEBUG /fo examples\\CMakeFiles\\webview_example_bind_c.dir\\resources\\windows\\resources.rc.res C:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\examples\\resources\\windows\\resources.rc",
+  "file": "C:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\examples\\resources\\windows\\resources.rc",
+  "output": "examples\\CMakeFiles\\webview_example_bind_c.dir\\resources\\windows\\resources.rc.res"
+},
+{
+  "directory": "C:/Users/Administrator/Music/ItchioLite/client/webview/out/build/x64-Debug",
+  "command": "C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe -DWEBVIEW_STATIC -D_CRT_SECURE_NO_WARNINGS -I C:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\core\\include -I C:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\compatibility\\mingw\\include -I C:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\out\\build\\x64-Debug\\_deps\\microsoft_web_webview2-src\\build\\native\\include -DWIN32 -D_DEBUG /fo examples\\CMakeFiles\\webview_example_bind_c.dir\\resources\\windows\\version.rc.res C:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\out\\build\\x64-Debug\\examples\\resources\\windows\\version.rc",
+  "file": "C:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\out\\build\\x64-Debug\\examples\\resources\\windows\\version.rc",
+  "output": "examples\\CMakeFiles\\webview_example_bind_c.dir\\resources\\windows\\version.rc.res"
+},
+{
+  "directory": "C:/Users/Administrator/Music/ItchioLite/client/webview/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\core\\include -IC:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\compatibility\\mingw\\include -external:IC:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\out\\build\\x64-Debug\\_deps\\microsoft_web_webview2-src\\build\\native\\include -external:W0 /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd /W4 /Foexamples\\CMakeFiles\\webview_example_bind_cc.dir\\bind.cc.obj /Fdexamples\\CMakeFiles\\webview_example_bind_cc.dir\\ /FS -c C:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\examples\\bind.cc",
+  "file": "C:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\examples\\bind.cc",
+  "output": "examples\\CMakeFiles\\webview_example_bind_cc.dir\\bind.cc.obj"
+},
+{
+  "directory": "C:/Users/Administrator/Music/ItchioLite/client/webview/out/build/x64-Debug",
+  "command": "C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe -I C:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\core\\include -I C:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\compatibility\\mingw\\include -I C:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\out\\build\\x64-Debug\\_deps\\microsoft_web_webview2-src\\build\\native\\include -DWIN32 -D_DEBUG /fo examples\\CMakeFiles\\webview_example_bind_cc.dir\\resources\\windows\\resources.rc.res C:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\examples\\resources\\windows\\resources.rc",
+  "file": "C:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\examples\\resources\\windows\\resources.rc",
+  "output": "examples\\CMakeFiles\\webview_example_bind_cc.dir\\resources\\windows\\resources.rc.res"
+},
+{
+  "directory": "C:/Users/Administrator/Music/ItchioLite/client/webview/out/build/x64-Debug",
+  "command": "C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe -I C:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\core\\include -I C:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\compatibility\\mingw\\include -I C:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\out\\build\\x64-Debug\\_deps\\microsoft_web_webview2-src\\build\\native\\include -DWIN32 -D_DEBUG /fo examples\\CMakeFiles\\webview_example_bind_cc.dir\\resources\\windows\\version.rc.res C:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\out\\build\\x64-Debug\\examples\\resources\\windows\\version.rc",
+  "file": "C:\\Users\\Administrator\\Music\\ItchioLite\\client\\webview\\out\\build\\x64-Debug\\examples\\resources\\windows\\version.rc",
+  "output": "examples\\CMakeFiles\\webview_example_bind_cc.dir\\resources\\windows\\version.rc.res"
+}
+]

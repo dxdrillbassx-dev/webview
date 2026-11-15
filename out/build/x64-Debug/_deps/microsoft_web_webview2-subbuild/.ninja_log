@@ -1,0 +1,21 @@
+# ninja log v6
+4	76	8154089349525246	microsoft_web_webview2-populate-prefix/src/microsoft_web_webview2-populate-stamp/microsoft_web_webview2-populate-mkdir	479aadbf3cdb273d
+4	76	8154089349525246	C:/Users/Administrator/Music/ItchioLite/client/webview/out/build/x64-Debug/_deps/microsoft_web_webview2-subbuild/microsoft_web_webview2-populate-prefix/src/microsoft_web_webview2-populate-stamp/microsoft_web_webview2-populate-mkdir	479aadbf3cdb273d
+77	2130	8154089370075277	microsoft_web_webview2-populate-prefix/src/microsoft_web_webview2-populate-stamp/microsoft_web_webview2-populate-download	b5402527b1cfdfdc
+77	2130	8154089370075277	C:/Users/Administrator/Music/ItchioLite/client/webview/out/build/x64-Debug/_deps/microsoft_web_webview2-subbuild/microsoft_web_webview2-populate-prefix/src/microsoft_web_webview2-populate-stamp/microsoft_web_webview2-populate-download	b5402527b1cfdfdc
+2131	2203	8154089370801730	microsoft_web_webview2-populate-prefix/src/microsoft_web_webview2-populate-stamp/microsoft_web_webview2-populate-update	3c287fa8a3f6b94d
+2131	2203	8154089370801730	C:/Users/Administrator/Music/ItchioLite/client/webview/out/build/x64-Debug/_deps/microsoft_web_webview2-subbuild/microsoft_web_webview2-populate-prefix/src/microsoft_web_webview2-populate-stamp/microsoft_web_webview2-populate-update	3c287fa8a3f6b94d
+2203	2274	8154089371499627	microsoft_web_webview2-populate-prefix/src/microsoft_web_webview2-populate-stamp/microsoft_web_webview2-populate-patch	2a9f720202b26a80
+2203	2274	8154089371499627	C:/Users/Administrator/Music/ItchioLite/client/webview/out/build/x64-Debug/_deps/microsoft_web_webview2-subbuild/microsoft_web_webview2-populate-prefix/src/microsoft_web_webview2-populate-stamp/microsoft_web_webview2-populate-patch	2a9f720202b26a80
+2274	2342	8154089372192826	microsoft_web_webview2-populate-prefix/src/microsoft_web_webview2-populate-stamp/microsoft_web_webview2-populate-configure	24a91cd915017669
+2274	2342	8154089372192826	C:/Users/Administrator/Music/ItchioLite/client/webview/out/build/x64-Debug/_deps/microsoft_web_webview2-subbuild/microsoft_web_webview2-populate-prefix/src/microsoft_web_webview2-populate-stamp/microsoft_web_webview2-populate-configure	24a91cd915017669
+2342	2410	8154089372872528	microsoft_web_webview2-populate-prefix/src/microsoft_web_webview2-populate-stamp/microsoft_web_webview2-populate-build	4d345ca71798c7d3
+2342	2410	8154089372872528	C:/Users/Administrator/Music/ItchioLite/client/webview/out/build/x64-Debug/_deps/microsoft_web_webview2-subbuild/microsoft_web_webview2-populate-prefix/src/microsoft_web_webview2-populate-stamp/microsoft_web_webview2-populate-build	4d345ca71798c7d3
+2410	2477	8154089373534255	microsoft_web_webview2-populate-prefix/src/microsoft_web_webview2-populate-stamp/microsoft_web_webview2-populate-install	90ddbfda718fc6db
+2410	2477	8154089373534255	C:/Users/Administrator/Music/ItchioLite/client/webview/out/build/x64-Debug/_deps/microsoft_web_webview2-subbuild/microsoft_web_webview2-populate-prefix/src/microsoft_web_webview2-populate-stamp/microsoft_web_webview2-populate-install	90ddbfda718fc6db
+2477	2544	8154089374214710	microsoft_web_webview2-populate-prefix/src/microsoft_web_webview2-populate-stamp/microsoft_web_webview2-populate-test	265ac865e017b756
+2477	2544	8154089374214710	C:/Users/Administrator/Music/ItchioLite/client/webview/out/build/x64-Debug/_deps/microsoft_web_webview2-subbuild/microsoft_web_webview2-populate-prefix/src/microsoft_web_webview2-populate-stamp/microsoft_web_webview2-populate-test	265ac865e017b756
+2544	2639	8154089375165399	CMakeFiles/microsoft_web_webview2-populate-complete	26380d81c16d82d7
+2544	2639	8154089375165399	microsoft_web_webview2-populate-prefix/src/microsoft_web_webview2-populate-stamp/microsoft_web_webview2-populate-done	26380d81c16d82d7
+2544	2639	8154089375165399	C:/Users/Administrator/Music/ItchioLite/client/webview/out/build/x64-Debug/_deps/microsoft_web_webview2-subbuild/CMakeFiles/microsoft_web_webview2-populate-complete	26380d81c16d82d7
+2544	2639	8154089375165399	C:/Users/Administrator/Music/ItchioLite/client/webview/out/build/x64-Debug/_deps/microsoft_web_webview2-subbuild/microsoft_web_webview2-populate-prefix/src/microsoft_web_webview2-populate-stamp/microsoft_web_webview2-populate-done	26380d81c16d82d7

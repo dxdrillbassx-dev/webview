@@ -1,0 +1,10 @@
+# ninja log v6
+22	55	8154089670893206	C:/Users/Administrator/Music/ItchioLite/client/webview/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	22b27ebd9c959577
+1292	1701	8154089687587503	core/tests/webview_core_functional_tests.exe	7fafd1033ef2df14
+57	603	8154089671233945	test_driver/CMakeFiles/webview_test_driver.dir/src/test_driver.cc.obj	4e9c6e14b29b3c31
+604	663	8154089676705817	test_driver/webview_test_driverd.lib	3628fb444a97f567
+62	1291	8154089671287678	core/tests/CMakeFiles/webview_core_functional_tests.dir/src/functional_tests.cc.obj	ced945eb22436c62
+1292	1701	8154089687587503	core/tests/webview_core_functional_tests_test_include.cmake	7fafd1033ef2df14
+1292	1701	8154089687587503	core/tests/webview_core_functional_tests_test_driver.cmake	7fafd1033ef2df14
+1292	1701	8154089687587503	C:/Users/Administrator/Music/ItchioLite/client/webview/out/build/x64-Debug/core/tests/webview_core_functional_tests_test_include.cmake	7fafd1033ef2df14
+1292	1701	8154089687587503	C:/Users/Administrator/Music/ItchioLite/client/webview/out/build/x64-Debug/core/tests/webview_core_functional_tests_test_driver.cmake	7fafd1033ef2df14

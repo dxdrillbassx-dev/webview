@@ -1,0 +1,500 @@
+{
+	"globsDependent" : 
+	[
+		{
+			"expression" : "C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/**",
+			"paths" : 
+			[
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview.h",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/api.h",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/backends.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/c_api_impl.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/detail/backends/cocoa_webkit.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/detail/backends/gtk_webkitgtk.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/detail/backends/win32_edge.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/detail/basic_result.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/detail/engine_base.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/detail/exceptions.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/detail/json.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/detail/native_library.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/detail/optional.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/detail/platform/darwin/cocoa/NSApplication.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/detail/platform/darwin/cocoa/NSBundle.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/detail/platform/darwin/cocoa/NSEvent.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/detail/platform/darwin/cocoa/NSInvocation.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/detail/platform/darwin/cocoa/NSMethodSignature.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/detail/platform/darwin/cocoa/NSNotification.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/detail/platform/darwin/cocoa/NSNumber.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/detail/platform/darwin/cocoa/NSObject.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/detail/platform/darwin/cocoa/NSOpenPanel.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/detail/platform/darwin/cocoa/NSPoint.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/detail/platform/darwin/cocoa/NSRect.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/detail/platform/darwin/cocoa/NSSavePanel.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/detail/platform/darwin/cocoa/NSSize.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/detail/platform/darwin/cocoa/NSString.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/detail/platform/darwin/cocoa/NSURL.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/detail/platform/darwin/cocoa/NSURLRequest.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/detail/platform/darwin/cocoa/NSValue.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/detail/platform/darwin/cocoa/NSView.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/detail/platform/darwin/cocoa/NSWindow.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/detail/platform/darwin/cocoa/cocoa.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/detail/platform/darwin/cocoa/types.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/detail/platform/darwin/objc/Class.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/detail/platform/darwin/objc/autoreleasepool.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/detail/platform/darwin/objc/invoke.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/detail/platform/darwin/objc/memory.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/detail/platform/darwin/objc/objc.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/detail/platform/darwin/webkit/WKOpenPanelParameters.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/detail/platform/darwin/webkit/WKScriptMessage.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/detail/platform/darwin/webkit/WKUserContentController.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/detail/platform/darwin/webkit/WKUserScript.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/detail/platform/darwin/webkit/WKWebView.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/detail/platform/darwin/webkit/WKWebViewConfiguration.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/detail/platform/darwin/webkit/webkit.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/detail/platform/linux/gtk/compat.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/detail/platform/linux/webkitgtk/compat.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/detail/platform/linux/webkitgtk/dmabuf.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/detail/platform/windows/com_init_wrapper.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/detail/platform/windows/dpi.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/detail/platform/windows/dwmapi.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/detail/platform/windows/iid.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/detail/platform/windows/ntdll.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/detail/platform/windows/reg_key.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/detail/platform/windows/shcore.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/detail/platform/windows/theme.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/detail/platform/windows/user32.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/detail/platform/windows/version.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/detail/platform/windows/webview2/loader.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/detail/user_script.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/detail/utility/string.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/errors.h",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/errors.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/json_deprecated.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/macros.h",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/types.h",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/types.hh",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/version.h",
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/include/webview/webview.h"
+			],
+			"recurse" : true
+		},
+		{
+			"expression" : "C:/Users/Administrator/Music/ItchioLite/client/webview/core/src/**",
+			"paths" : 
+			[
+				"C:/Users/Administrator/Music/ItchioLite/client/webview/core/src/webview.cc"
+			],
+			"recurse" : true
+		}
+	],
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"path" : "cmake/internal.cmake"
+		},
+		{
+			"path" : "cmake/webview.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "out/build/x64-Debug/CMakeFiles/3.31.6-msvc6/CMakeSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Platform/Windows-Initialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "out/build/x64-Debug/CMakeFiles/3.31.6-msvc6/CMakeCCompiler.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "out/build/x64-Debug/CMakeFiles/3.31.6-msvc6/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Platform/Windows.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Platform/WindowsPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Compiler/MSVC-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Compiler/MSVC.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Platform/Windows-MSVC-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Platform/Windows-MSVC.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "out/build/x64-Debug/CMakeFiles/3.31.6-msvc6/CMakeRCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeRCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Internal/CMakeCLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Internal/CMakeCommonLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Platform/Linker/Windows-MSVC-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Platform/Linker/Windows-MSVC.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Compiler/MSVC-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Compiler/MSVC.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Platform/Windows-MSVC-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Platform/Windows-MSVC.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Internal/CMakeCXXLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Internal/CMakeCommonLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Platform/Linker/Windows-MSVC-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Platform/Linker/Windows-MSVC.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckCXXSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Internal/CheckSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeDependentOption.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakePackageConfigHelpers.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/WriteBasicConfigVersionFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/GNUInstallDirs.cmake"
+		},
+		{
+			"path" : "cmake/modules/FindMSWebView2.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"path" : "cmake/modules/FindMSWebView2.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CTest.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CTestUseLaunchers.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CTestTargets.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/DartConfiguration.tcl.in"
+		},
+		{
+			"path" : "cmake/webview-config.cmake.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/BasicConfigVersion-SameMinorVersion.cmake.in"
+		},
+		{
+			"path" : "compatibility/CMakeLists.txt"
+		},
+		{
+			"path" : "compatibility/mingw/CMakeLists.txt"
+		},
+		{
+			"path" : "test_driver/CMakeLists.txt"
+		},
+		{
+			"path" : "core/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindPython3.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindPython/Support.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"path" : "core/tests/CMakeLists.txt"
+		},
+		{
+			"path" : "test_driver/cmake/discovery.cmake"
+		},
+		{
+			"path" : "examples/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Internal/CheckSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"path" : "examples/resources/windows/resources.cmake"
+		},
+		{
+			"path" : "examples/resources/windows/version.rc.in"
+		},
+		{
+			"path" : "docs/CMakeLists.txt"
+		},
+		{
+			"path" : "docs/api/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindDoxygen.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"path" : "packaging/CMakeLists.txt"
+		},
+		{
+			"path" : "packaging/external_package.cmake.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CPack.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CPackComponent.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Templates/CPackConfig.cmake.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Templates/CPackConfig.cmake.in"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "C:/Users/Administrator/Music/ItchioLite/client/webview/out/build/x64-Debug",
+		"source" : "C:/Users/Administrator/Music/ItchioLite/client/webview"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 1
+	}
+}

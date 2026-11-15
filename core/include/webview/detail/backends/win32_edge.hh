@@ -787,11 +787,23 @@ private:
       return error_info{WEBVIEW_ERROR_UNSPECIFIED,
                         "put_AreDevToolsEnabled failed"};
     }
+    // Без ПКМ-меню браузера (кроме debug-сборки)
+    res = settings->put_AreDefaultContextMenusEnabled(debug ? TRUE : FALSE);
+    if (res != S_OK) {
+      return error_info{WEBVIEW_ERROR_UNSPECIFIED,
+                        "put_AreDefaultContextMenusEnabled failed"};
+    }
+    res = settings->put_IsZoomControlEnabled(FALSE);
+    if (res != S_OK) {
+      return error_info{WEBVIEW_ERROR_UNSPECIFIED,
+                        "put_IsZoomControlEnabled failed"};
+    }
     res = settings->put_IsStatusBarEnabled(FALSE);
     if (res != S_OK) {
       return error_info{WEBVIEW_ERROR_UNSPECIFIED,
                         "put_IsStatusBarEnabled failed"};
     }
+
     add_init_script("function(message) {\n\
   return window.chrome.webview.postMessage(message);\n\
 }");
